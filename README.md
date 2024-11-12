@@ -1,4 +1,4 @@
-# CloudScraper Wrapper
+# Cloudscraper Wrapper
 
 A powerful Python wrapper for CloudScraper that adds proxy management, rate limiting, caching, and extensive error handling capabilities.
 
